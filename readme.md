@@ -16,10 +16,10 @@ I'm an Android developer passionate about clean interfaces.
 
 **💻 Development**
 
-- **Languages:** Kotlin, Python
-- **Frameworks:** Jetpack Compose (Material 3 Expressive), Supabase
+- **Languages:** Kotlin, Rust
+- **Frameworks:** Jetpack Compose (Material 3 Expressive)
 
 **⚙️ Environment**
 
-- **Desktop:** Arch Linux + Hyprland
-- **IDEs:** Android Studio, VSCode
+- **Desktop:** Arch Linux + Niri
+- **IDEs:** Android Studio, VSCodium
